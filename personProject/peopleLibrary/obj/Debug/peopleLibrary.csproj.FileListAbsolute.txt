@@ -1,0 +1,9 @@
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\bin\Debug\peopleLibrary.dll
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\bin\Debug\peopleLibrary.pdb
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\obj\Debug\peopleLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\obj\Debug\peopleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\obj\Debug\peopleLibrary.dll
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\obj\Debug\peopleLibrary.pdb
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\bin\Debug\Npgsql.dll
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\bin\Debug\Npgsql.pdb
+C:\Users\Parisaca\Desktop\personProject\peopleLibrary\bin\Debug\Npgsql.xml
